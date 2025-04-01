@@ -1,6 +1,6 @@
 # PowerBI
 Power BI: Key Uses &amp; Benefits 🚀 Power BI is a powerful business intelligence tool by Microsoft used for data analysis and visualization.</br>
-Here are some of its key uses</br>: 
+Here are some of its key uses: </br>
 🔹 1. Data Visualization & Dashboards</br>
 Create interactive reports and dashboards with dynamic visuals.</br>
 
