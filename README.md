@@ -1,6 +1,6 @@
 # PowerBI
 
-## 📊 Visualizations
+## 📊Few Visualizations
 
 ### 🔹 Area Chart
 ![Area Chart](./superstore_class3/AreaChart.png)
