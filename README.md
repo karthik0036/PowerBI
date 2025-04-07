@@ -1,4 +1,23 @@
 # PowerBI
+
+## 📊 Class 3 - Superstore Visualizations
+
+### 🔹 Area Chart
+![Area Chart](./superstore_class3/AreaChart.png)
+
+### 🔹 Clustered & Stacked Charts
+![Clustered & Stacked Charts](./superstore_class3/Clusterd%20&%20Stacked%20Charts.png)
+
+### 🔹 Line Charts
+![Line Charts](./superstore_class3/Line%20Charts.png)
+
+### 🔹 Line - Stacked & Clustered
+![Line Stacked & Clustered](./superstore_class3/Line-Stacked%20&%20Line-Clustered.png)
+
+### 🔹 Stacked Area Chart
+![Stacked Area Chart](./superstore_class3/Stacked%20AreaChart.png)
+
+
 Power BI: Key Uses &amp; Benefits 🚀 Power BI is a powerful business intelligence tool by Microsoft used for data analysis and visualization.</br>
 Here are some of its key uses: </br>
 🔹 1. Data Visualization & Dashboards</br>
